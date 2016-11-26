@@ -1,0 +1,2 @@
+# ReactNative-NavigatorAnimation
+一个基于ReactNative的路由动画，包括push，present和过度的路有动画
